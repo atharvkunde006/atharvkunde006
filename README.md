@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi there! I'm Atharv Kunde
 
-<!--
-**atharvkunde006/atharvkunde006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm an aspiring developer passionate about learning, building cool projects, and growing my skills in software development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 I am currently a **second-year student** pursuing my degree in Computer Science.
+- 💡 I’m interested in **C++**, **Data Structures & Algorithms**, **App Development**, and **Open Source**.
+- 🧠 Currently learning **C++ DSA**, **Git & GitHub**, and **Web Development**.
+- 💪 I go to the gym daily at **5 AM** because discipline = progress!
+- 🌱 Exploring ways to contribute to real-world projects and participate in **hackathons**.
+- 🎯 Goal: Get placed with strong development + problem-solving skills.
+
+---
+
+## 🛠️ Tech Stack
+
+```yaml
+Languages: 
+  - C++
+  - HTML/CSS (basic)
+  - Python (beginner)
+  
+Tools & Platforms:
+  - Git & GitHub
+  - Visual Studio Code
+  - Windows/Linux
